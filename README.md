@@ -1,4 +1,4 @@
-# CS519.O21.KHTN
+# CS2205.CH2023
 
 <p align="center">
   <a href="https://www.uit.edu.vn/"><img src="https://www.uit.edu.vn/sites/vi/files/banner.png"></a>
