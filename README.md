@@ -1,12 +1,12 @@
-# CS2205.CH2023
+# CS2205.CH183
 
 <p align="center">
   <a href="https://www.uit.edu.vn/"><img src="https://www.uit.edu.vn/sites/vi/files/banner.png"></a>
-<h1 align="center"><b>CS2205.CH2023 - PHƯƠNG PHÁP NCKH</b></h1>
+<h1 align="center"><b>CS2205.CH183 - PHƯƠNG PHÁP NCKH</b></h1>
 
 ## Giới thiệu
 * Tên môn học: PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC - Scientific research methodology
-* Mã lớp: CS2205.CH2023
+* Mã lớp: CS2205.CH183
 
 ### Giảng viên
 * PGS.TS Lê Đình Duy - duyld@uit.edu.vn
